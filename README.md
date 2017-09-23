@@ -1,2 +1,3 @@
 # osm.dart
-A simple Dart implementation of the OSM API for clients.
+
+Simple Dart client library  implementation of the [OpenStreetMap (OSM)](http://wiki.openstreetmap.org/wiki/API) that uses the REST http API
